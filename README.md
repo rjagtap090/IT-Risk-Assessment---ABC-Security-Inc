@@ -47,6 +47,3 @@ For any questions or further information, please feel free to reach out to:
 - Email: rjagtap9299@gmail.com
 - LinkedIn: [Rishabh Jagtap](https://www.linkedin.com/in/rishabh-jagtap/)
 
----
-
-This README provides a clear overview of your project and guides viewers on what to expect from the repository.
